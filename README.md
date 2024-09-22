@@ -13,7 +13,7 @@ O Hackatruck é uma iniciativa educacional que visa capacitar desenvolvedores no
 - **Semana 1: Introdução ao Swift**
   - `semana1/`
     - **Aula 02 e 03**: Views, VStack, HStack.
-    - **Aula 04**: TextFiel, Button, Alert, ZStack.
+    - **Aula 04**: TextFielD, Button, Alert, ZStack.
     - **Aula 05**: Desafio - Calculadora IMC.
   
 ## Como Executar
